@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Emojis</string>
+    <string name="recent">recent</string>
+    <string name="people">people</string>
+    <string name="nature">nature</string>
+    <string name="food">food</string>
+    <string name="sporty">sporty</string>
+    <string name="travel">travel</string>
+    <string name="electronics">electronics</string>
+    <string name="symbols">symbols</string>
+    <string name="backspace">backspace</string>
+</resources>
